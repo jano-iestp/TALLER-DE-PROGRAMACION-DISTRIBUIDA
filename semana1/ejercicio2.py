@@ -1,0 +1,6 @@
+print("Ingresa tu nombre: ")
+nombre = input() 
+print("Ingresa tu edad: ")
+edad = input() 
+print("Tu nombre es: ", nombre)
+print("Tu edad es: ", edad)
